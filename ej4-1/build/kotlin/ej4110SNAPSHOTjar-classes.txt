@@ -1,0 +1,1 @@
+C:\Users\usuarioT\IdeaProjects\ej4-1\build\classes\kotlin\main\Alumnos.class;C:\Users\usuarioT\IdeaProjects\ej4-1\build\classes\kotlin\main\MainKt.class;C:\Users\usuarioT\IdeaProjects\ej4-1\build\classes\kotlin\main\Modulo.class
